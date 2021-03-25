@@ -5,7 +5,7 @@ Tedla yatisha
 email                       tedlayatisha@gmail.com
 empid                       2433
 phone                        xxxxxxxxxx
-linked in                    ![link]
+linked in                    ![link](https://linkedin.com)
 -------------------     ----------------------------
 
 Education
