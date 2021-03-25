@@ -2,10 +2,10 @@ Tedla yatisha
 ============
 
 -------------------     ----------------------------
-email                       tedlayatisha@gmail.com
-empid                       2433
-phone                        xxxxxxxxxx
-linked in                    ![link](https://linkedin.com)
+*email :                      tedlayatisha@gmail.com
+*empid :                      2433
+*phone:                        xxxxxxxxxx
+*linked in:                    ![link](https://linkedin.com)
 -------------------     ----------------------------
 
 Education
